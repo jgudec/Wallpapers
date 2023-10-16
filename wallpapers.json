@@ -1,428 +1,115 @@
 [
     {
-        "name": "Black",
-        "author": "Arber Tusha",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Black.png",
+        "name": "Haze Dark",
+        "author": "Google",
+        "url": "https://raw.githubusercontent.com/jgudec/Wallpapers/tiramisu/img/haze_dark.png",
         "downloadable": true,
-        "dimensions": "1844x4096"
+        "dimensions": "2957x3291"
     },
     {
-        "name": "DarkBluePastel",
-        "author": "Arber Tusha",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/DarkBluePastel.png",
+        "name": "Haze Light",
+        "author": "Google",
+        "url": "https://raw.githubusercontent.com/jgudec/Wallpapers/tiramisu/img/haze_light.png",
         "downloadable": true,
-        "dimensions": "1844x4096"
+        "dimensions": "2957x3291"
     },
     {
-        "name": "DarkGreenPastel",
-        "author": "Arber Tusha",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/DarkGreenPastel.png",
+        "name": "Jade Dark Pro",
+        "author": "Google",
+        "url": "https://raw.githubusercontent.com/jgudec/Wallpapers/tiramisu/img/jade_dark_pro.png",
         "downloadable": true,
-        "dimensions": "1844x4096"
+        "dimensions": "2957x3291"
     },
     {
-        "name": "DarkGrey",
-        "author": "Arber Tusha",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/DarkGrey.png",
+        "name": "Jade Dark",
+        "author": "Google",
+        "url": "https://raw.githubusercontent.com/jgudec/Wallpapers/tiramisu/img/jade_dark.png",
         "downloadable": true,
-        "dimensions": "1844x4096"
+        "dimensions": "2957x3291"
     },
     {
-        "name": "DarkPinkPastel",
-        "author": "Arber Tusha",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/DarkPinkPastel.png",
+        "name": "Jade Light Pro",
+        "author": "Google",
+        "url": "https://raw.githubusercontent.com/jgudec/Wallpapers/tiramisu/img/jade_light_pro.png",
         "downloadable": true,
-        "dimensions": "1844x4096"
+        "dimensions": "2957x3291"
     },
     {
-        "name": "DarkPurplePastel",
-        "author": "Arber Tusha",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/DarkPurplePastel.png",
+        "name": "Jade Light",
+        "author": "Google",
+        "url": "https://raw.githubusercontent.com/jgudec/Wallpapers/tiramisu/img/jade_light.png",
         "downloadable": true,
-        "dimensions": "1844x4096"
+        "dimensions": "2957x3291"
     },
     {
-        "name": "DarkRedPastel",
-        "author": "Arber Tusha",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/DarkRedPastel.png",
+        "name": "Licorice Dark Pro",
+        "author": "Google",
+        "url": "https://raw.githubusercontent.com/jgudec/Wallpapers/tiramisu/img/licorice_dark_pro.png",
         "downloadable": true,
-        "dimensions": "1844x4096"
+        "dimensions": "2957x3291"
     },
     {
-        "name": "DarkYellowPastel",
-        "author": "Arber Tusha",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/DarkYellowPastel.png",
+        "name": "Licorice Dark",
+        "author": "Google",
+        "url": "https://raw.githubusercontent.com/jgudec/Wallpapers/tiramisu/img/lcorice_dark.png",
         "downloadable": true,
-        "dimensions": "1844x4096"
+        "dimensions": "2957x3291"
     },
     {
-        "name": "LightBluePastel",
-        "author": "Arber Tusha",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/LightBluePastel.png",
+        "name": "Licorice Light Pro",
+        "author": "Google",
+        "url": "https://raw.githubusercontent.com/jgudec/Wallpapers/tiramisu/img/licorice_light_pro.png",
         "downloadable": true,
-        "dimensions": "1844x4096"
+        "dimensions": "2957x3291"
     },
     {
-        "name": "LightGreenPastel",
-        "author": "Arber Tusha",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/LightGreenPastel.png",
+        "name": "Licorice Light",
+        "author": "Google",
+        "url": "https://raw.githubusercontent.com/jgudec/Wallpapers/tiramisu/img/licorice_light.png",
         "downloadable": true,
-        "dimensions": "1844x4096"
+        "dimensions": "2957x3291"
     },
     {
-        "name": "LightGrey",
-        "author": "Arber Tusha",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/LightGrey.png",
+        "name": "Peony Dark",
+        "author": "Google",
+        "url": "https://raw.githubusercontent.com/jgudec/Wallpapers/tiramisu/img/peony_dark.png",
         "downloadable": true,
-        "dimensions": "1844x4096"
+        "dimensions": "2957x3291"
     },
     {
-        "name": "LightPinkPastel",
-        "author": "Arber Tusha",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/LightPinkPastel.png",
+        "name": "Peony Light",
+        "author": "Google",
+        "url": "https://raw.githubusercontent.com/jgudec/Wallpapers/tiramisu/img/peony_light.png",
         "downloadable": true,
-        "dimensions": "1844x4096"
+        "dimensions": "2957x3291"
     },
     {
-        "name": "LightPurplePastel",
-        "author": "Arber Tusha",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/LightPurplePastel.png",
+        "name": "Porcelain Dark",
+        "author": "Google",
+        "url": "https://raw.githubusercontent.com/jgudec/Wallpapers/tiramisu/img/porcelain_dark.png",
         "downloadable": true,
-        "dimensions": "1844x4096"
+        "dimensions": "2957x3291"
     },
     {
-        "name": "LightRedPastel",
-        "author": "Arber Tusha",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/LightRedPastel.png",
+        "name": "Porcelain Light",
+        "author": "Google",
+        "url": "https://raw.githubusercontent.com/jgudec/Wallpapers/tiramisu/img/porcelain_light.png",
         "downloadable": true,
-        "dimensions": "1844x4096"
+        "dimensions": "2957x3291"
     },
     {
-        "name": "LightYellowPastel",
-        "author": "Arber Tusha",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/LightYellowPastel.png",
+        "name": "Sky Dark",
+        "author": "Google",
+        "url": "https://raw.githubusercontent.com/jgudec/Wallpapers/tiramisu/img/sky_dark.png",
         "downloadable": true,
-        "dimensions": "1844x4096"
+        "dimensions": "2957x3291"
     },
     {
-        "name": "White",
-        "author": "Arber Tusha",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/White.png",
+        "name": "Sky Light",
+        "author": "Google",
+        "url": "https://raw.githubusercontent.com/jgudec/Wallpapers/tiramisu/img/sky_light.png",
         "downloadable": true,
-        "dimensions": "1844x4096"
+        "dimensions": "2957x3291"
     },
-    {
-        "name": "Darker",
-        "author": "Afon Kulikov",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Darker.png",
-        "downloadable": true,
-        "dimensions": "922x2048"
-    },
-	{
-        "name": "BasicallyBlue",
-        "author": "Mohd Shafiq Khan (AmaanCG)",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/BasicallyBlue.png",
-        "downloadable": true,
-        "dimensions": "1843x4096"
-    },
-    {
-        "name": "GrungyGreen",
-        "author": "Mohd Shafiq Khan (AmaanCG)",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/GrungyGreen.png",
-        "downloadable": true,
-        "dimensions": "1843x4096"
-    },
-    {
-        "name": "PrettyPeachy",
-        "author": "Mohd Shafiq Khan (AmaanCG)",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/PrettyPeachy.png",
-        "downloadable": true,
-        "dimensions": "1843x4096"
-    },
-    {
-        "name": "System Two",
-        "author": "Afon Kulikov",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/SystemTwo.png",
-        "downloadable": true,
-        "dimensions": "1843x4096"
-    },
- 	{
-        "name": "System",
-        "author": "Afon Kulikov",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/System.png",
-        "downloadable": true,
-        "dimensions": "2880x5120"
-    },
-    {
-        "name": "Eve of the Evolver",
-        "author": "Daniel Myslivets",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/evolverseve.png",
-        "downloadable": true,
-        "dimensions": "3870x2250"
-    },
-    {
-        "name": "Lone Nights (Chillspace)",
-        "author": "Bounty",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/chillspace.png",
-        "downloadable": true,
-        "dimensions": "2880x5120"
-    },
-    {
-        "name": "Lone Nights (Firefly)",
-        "author": "Bounty",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/firefly.png",
-        "downloadable": true,
-        "dimensions": "2880x5120"
-    },
-    {
-        "name": "Lone Nights (Mistletoe)",
-        "author": "Bounty",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/mistletoe.png",
-        "downloadable": true,
-        "dimensions": "2880x5120"
-    },
-    {
-        "name": "Lone Nights (Remainder)",
-        "author": "Bounty",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/remainder.png",
-        "downloadable": true,
-        "dimensions": "2880x5120"
-    },
-    {
-        "name": "Lone Nights (Starlight)",
-        "author": "Bounty",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/starlight.png",
-        "downloadable": true,
-        "dimensions": "2880x5120"
-    },
-    {
-        "name": "Shapes Dark Filled",
-        "author": "Bounty",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/ShapesDarkFilled.png",
-        "downloadable": true,
-        "dimensions": "2880x5120"
-    },
-    {
-        "name": "Shapes Dark Outline",
-        "author": "Bounty",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/ShapesDarkOutline.png",
-        "downloadable": true,
-        "dimensions": "2880x5120"
-    },
-    {
-        "name": "Shapes Light Filled",
-        "author": "Bounty",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/ShapesLightFilled.png",
-        "downloadable": true,
-        "dimensions": "2880x5120"
-    },
-    {
-        "name": "Shapes Light Outline",
-        "author": "Bounty",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/ShapesLightOutline.png",
-        "downloadable": true,
-        "dimensions": "2880x5120"
-    },
-    {
-        "name": "Cypher Dark",
-        "author": "Bounty",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/CypherDark.png",
-        "downloadable": true,
-        "dimensions": "1080x2280"
-    },
-    {
-        "name": "Cypher Light",
-        "author": "Bounty",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/CypherLight.png",
-        "downloadable": true,
-        "dimensions": "1080x2280"
-    },
-    {
-        "name": "Radiant (Font)",
-        "author": "tomfairey",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Radiant-Font.png",
-        "downloadable": true,
-        "dimensions": "2160x3840"
-    },
-    {
-        "name": "Radiant (Dark)",
-        "author": "tomfairey",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Radiant-Dark.png",
-        "downloadable": true,
-        "dimensions": "1440x2560"
-    },
-    {
-        "name": "Radiant (Light)",
-        "author": "tomfairey",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Radiant-Light.png",
-        "downloadable": true,
-        "dimensions": "1440x2560"
-    },
-    {
-        "name": "Roundness (Light)",
-        "author": "ecnivtwelve",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Roundness-Light.png",
-        "downloadable": true,
-        "dimensions": "1440x2560"
-    },
-	{
-        "name": "Roundness",
-        "author": "ecnivtwelve",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Roundness.png",
-        "downloadable": true,
-        "dimensions": "1440x2560"
-    },
-	{
-        "name": "New Waves 2 (Blue)",
-        "author": "ecnivtwelve",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/WavesNew-2-Blue.png",
-        "downloadable": true,
-        "dimensions": "1440x2560"
-    },
-	{
-        "name": "New Waves 2 (Light)",
-        "author": "ecnivtwelve",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/WavesNew-2-Light.png",
-        "downloadable": true,
-        "dimensions": "1440x2560"
-    },
-	{
-        "name": "New Waves 2 (Dark)",
-        "author": "ecnivtwelve",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/WavesNew-2-Dark.png",
-        "downloadable": true,
-        "dimensions": "1440x2560"
-    },
-	{
-        "name": "New Waves 2 (Black)",
-        "author": "ecnivtwelve",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/WavesNew-2-Black.png",
-        "downloadable": true,
-        "dimensions": "1440x2560"
-    },
-	{
-        "name": "Waves 2 (Blue)",
-        "author": "ecnivtwelve",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Waves-2-Blue.png",
-        "downloadable": true,
-        "dimensions": "1440x2560"
-    },
-	{
-        "name": "Waves 2 (Light)",
-        "author": "ecnivtwelve",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Waves-2-Light.png",
-        "downloadable": true,
-        "dimensions": "1440x2560"
-    },
-	{
-        "name": "Waves 2 (Dark)",
-        "author": "ecnivtwelve",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Waves-2-Dark.png",
-        "downloadable": true,
-        "dimensions": "1440x2560"
-    },
-	{
-        "name": "Waves 2 (Black)",
-        "author": "ecnivtwelve",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Waves-2-Black.png",
-        "downloadable": true,
-        "dimensions": "1440x2560"
-    },
-	{
-        "name": "Reveal (Blue)",
-        "author": "ecnivtwelve",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Letters-Reveal-Blue.png",
-        "downloadable": true,
-        "dimensions": "2560x2560"
-    },
-	{
-        "name": "Reveal (Dark)",
-        "author": "ecnivtwelve",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Letters-Reveal-Dark.png",
-        "downloadable": true,
-        "dimensions": "2560x2560"
-    },
-	{
-        "name": "Yellow Light",
-        "author": "RHLSKI",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/YellowLight.png",
-        "downloadable": true,
-        "dimensions": "1080x1920"
-    },
-	{
-        "name": "Wavy (Dark)",
-        "author": "Wenlin Shen",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/WavyDark.png",
-        "downloadable": true,
-        "dimensions": "1280x2560"
-    },
-	{
-        "name": "Wavy Light",
-        "author": "Wenlin Shen",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/WavyLight.png",
-        "downloadable": true,
-        "dimensions": "1280x2560"
-    },
-	{
-        "name": "The Evolution (Dark)",
-        "author": "Tantriudz",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Evo-X_2.0_Dark.png",
-        "downloadable": true,
-        "dimensions": "1440x2960"
-    },
-    {
-        "name": "The Evolution (Light)",
-        "author": "Tantriudz",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Evo-X_2.0_Light.png",
-        "downloadable": true,
-        "dimensions": "1440x2960"
-    },
-    {
-        "name": "Shape (Dark)",
-        "author": "Wenlin Shen",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/ShapeDark.png",
-        "downloadable": true,
-        "dimensions": "2160x4492",
-        "copyright": "CC BY-SA 4.0"
-    },
-    {
-        "name": "Shape (Light)",
-        "author": "Wenlin Shen",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Shape.png",
-        "downloadable": true,
-        "dimensions": "2160x4492",
-        "copyright": "CC BY-SA 4.0"
-    },
-    {
-        "name": "Font Alt (Dark)",
-        "author": "Wenlin Shen",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/FontAltDark.png",
-        "downloadable": true,
-        "dimensions": "2160x3840",
-        "copyright": "CC BY-SA 4.0"
-    },
-    {
-        "name": "Font (Dark)",
-        "author": "Wenlin Shen",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/FontDark.png",
-        "downloadable": true,
-        "dimensions": "2160x4492",
-        "copyright": "CC BY-SA 4.0"
-    },
-    {
-        "name": "Font (Light)",
-        "author": "Wenlin Shen",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Font.png",
-        "downloadable": true,
-        "dimensions": "2160x4492",
-        "copyright": "CC BY-SA 4.0"
-    },
-    {
-        "name": "Neon",
-        "author": "Wenlin Shen",
-        "url": "https://raw.githubusercontent.com/Evolution-X/Wallpapers/master/img/Neon.png",
-        "downloadable": true,
-        "dimensions": "2160x4492",
-        "copyright": "CC BY-SA 4.0"
-    }
+    
 ]
